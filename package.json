@@ -52,6 +52,7 @@
     "@changesets/cli": "^3.0.3",
     "@chromatic-com/storybook": "latest",
     "@storybook/addon-a11y": "^10.6.2",
+    "@storybook/addon-designs": "^11.1.4",
     "@storybook/addon-docs": "^10.6.2",
     "@storybook/addon-onboarding": "^10.6.2",
     "@storybook/addon-vitest": "^10.6.2",
