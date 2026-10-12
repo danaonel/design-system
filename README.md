@@ -4,8 +4,15 @@
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![npm version](https://img.shields.io/npm/v/@vftn/design-system.svg)](https://www.npmjs.com/package/@vftn/design-system)
+[![Storybook](https://img.shields.io/badge/Storybook-Live%20Demo-ff4785?logo=storybook&logoColor=white)](https://danaonel.github.io/design-system/)
 
 A modern, lightweight React component library built with TypeScript, providing accessible and customizable UI components for Voice For The Needy projects.
+
+## 🎭 Live Demo
+
+**[View Interactive Component Documentation →](https://danaonel.github.io/design-system/)**
+
+Explore all components with live examples, interactive props, and usage documentation in our Storybook.
 
 ## 📦 Installation
 
@@ -312,7 +319,11 @@ function MyComponent() {
 
 ### Storybook
 
-This package includes Storybook for component development and documentation:
+This package includes Storybook for component development and documentation.
+
+**Live Demo:** [https://danaonel.github.io/design-system/](https://danaonel.github.io/design-system/)
+
+Run Storybook locally:
 
 ```bash
 pnpm storybook
@@ -369,6 +380,7 @@ MIT © Daniela Glint
 
 ## 🔗 Links
 
+- [📚 Live Storybook Demo](https://danaonel.github.io/design-system/)
 - [GitHub Repository](https://github.com/danaonel/design-system)
 - [npm Package](https://www.npmjs.com/package/@vftn/design-system)
 - [Report Issues](https://github.com/danaonel/design-system/issues)

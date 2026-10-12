@@ -1,0 +1,192 @@
+{
+  "README.md": {
+    "filename": "README.md",
+    "path": "README.md",
+    "version": "1.2",
+    "contextFile": "7d7ba11e-context.json",
+    "chunks": {
+      "198bca": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791845285,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "61a15fca"
+        },
+        "hash": "38e105be",
+        "messageId": "system_df19ed30-c68e-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": null,
+        "isActive": true,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 3:48:05 PM\n- **source**: agent\n- **type**: agentEditTool\n"
+      },
+      "5206a3": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791845285,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "61a15fca"
+        },
+        "hash": "06f6450c",
+        "messageId": "system_df19ed30-c68e-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": null,
+        "isActive": true,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 3:48:05 PM\n- **source**: agent\n- **type**: agentEditTool\n"
+      },
+      "c48d40": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791845285,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "61a15fca"
+        },
+        "hash": "1e630684",
+        "messageId": "system_df19ed30-c68e-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": null,
+        "isActive": true,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 3:48:05 PM\n- **source**: agent\n- **type**: agentEditTool\n"
+      }
+    },
+    "lines": {
+      "4": {
+        "chunkId": "c48d40",
+        "hash": "d4509d25",
+        "encoded": "%5B!%5BMIT%20License%5D(https://img.shields.io/badge/license-MIT-blue.svg)%5D(LICENSE)",
+        "prevChunkIds": []
+      },
+      "5": {
+        "chunkId": "c48d40",
+        "hash": "ae01d46a",
+        "encoded": "%5B!%5Bnpm%20version%5D(https://img.shields.io/npm/v/@vftn/design-system.svg)%5D(https://www.npmjs.com/package/@vftn/design-system)",
+        "prevChunkIds": []
+      },
+      "6": {
+        "chunkId": "c48d40",
+        "hash": "fb6f69b0",
+        "encoded": "%5B!%5BStorybook%5D(https://img.shields.io/badge/Storybook-Live%2520Demo-ff4785?logo=storybook&logoColor=white)%5D(https://danaonel.github.io/design-system/)",
+        "prevChunkIds": []
+      },
+      "8": {
+        "chunkId": "c48d40",
+        "hash": "44a15802",
+        "encoded": "A%20modern,%20lightweight%20React%20component%20library%20built%20with%20TypeScript,%20providing%20accessible%20and%20customizable%20UI%20components%20for%20Voice%20For%20The%20Needy%20projects.",
+        "prevChunkIds": []
+      },
+      "10": {
+        "chunkId": "c48d40",
+        "hash": "4c7a885a",
+        "encoded": "##%20%F0%9F%8E%AD%20Live%20Demo",
+        "prevChunkIds": []
+      },
+      "12": {
+        "chunkId": "c48d40",
+        "hash": "c99437a2",
+        "encoded": "**%5BView%20Interactive%20Component%20Documentation%20%E2%86%92%5D(https://danaonel.github.io/design-system/)**",
+        "prevChunkIds": []
+      },
+      "14": {
+        "chunkId": "c48d40",
+        "hash": "675eb415",
+        "encoded": "Explore%20all%20components%20with%20live%20examples,%20interactive%20props,%20and%20usage%20documentation%20in%20our%20Storybook.",
+        "prevChunkIds": []
+      },
+      "327": {
+        "chunkId": "5206a3",
+        "hash": "71a56b33",
+        "encoded": "##%20%F0%9F%8F%97%EF%B8%8F%20Development",
+        "prevChunkIds": []
+      },
+      "329": {
+        "chunkId": "5206a3",
+        "hash": "3906f322",
+        "encoded": "###%20Storybook",
+        "prevChunkIds": []
+      },
+      "331": {
+        "chunkId": "5206a3",
+        "hash": "0fb82a9b",
+        "encoded": "This%20package%20includes%20Storybook%20for%20component%20development%20and%20documentation.",
+        "prevChunkIds": []
+      },
+      "333": {
+        "chunkId": "5206a3",
+        "hash": "c2e8ce71",
+        "encoded": "**Live%20Demo:**%20%5Bhttps://danaonel.github.io/design-system/%5D(https://danaonel.github.io/design-system/)",
+        "prevChunkIds": []
+      },
+      "335": {
+        "chunkId": "5206a3",
+        "hash": "c016062e",
+        "encoded": "Run%20Storybook%20locally:",
+        "prevChunkIds": []
+      },
+      "337": {
+        "chunkId": "5206a3",
+        "hash": "1e3d6e6e",
+        "encoded": "%60%60%60bash",
+        "prevChunkIds": []
+      },
+      "338": {
+        "chunkId": "5206a3",
+        "hash": "e1db9d5e",
+        "encoded": "pnpm%20storybook",
+        "prevChunkIds": []
+      },
+      "339": {
+        "chunkId": "5206a3",
+        "hash": "82a512ce",
+        "encoded": "%60%60%60",
+        "prevChunkIds": []
+      },
+      "341": {
+        "chunkId": "5206a3",
+        "hash": "35247d58",
+        "encoded": "Storybook%20will%20start%20at%20%60http://localhost:6006%60",
+        "prevChunkIds": []
+      },
+      "404": {
+        "chunkId": "198bca",
+        "hash": "fc716251",
+        "encoded": "##%20%F0%9F%94%97%20Links",
+        "prevChunkIds": []
+      },
+      "406": {
+        "chunkId": "198bca",
+        "hash": "c5304c4e",
+        "encoded": "-%20%5B%F0%9F%93%9A%20Live%20Storybook%20Demo%5D(https://danaonel.github.io/design-system/)",
+        "prevChunkIds": []
+      },
+      "407": {
+        "chunkId": "198bca",
+        "hash": "e4352dc0",
+        "encoded": "-%20%5BGitHub%20Repository%5D(https://github.com/danaonel/design-system)",
+        "prevChunkIds": []
+      },
+      "408": {
+        "chunkId": "198bca",
+        "hash": "81cdfa8f",
+        "encoded": "-%20%5Bnpm%20Package%5D(https://www.npmjs.com/package/@vftn/design-system)",
+        "prevChunkIds": []
+      },
+      "409": {
+        "chunkId": "198bca",
+        "hash": "a848ed7c",
+        "encoded": "-%20%5BReport%20Issues%5D(https://github.com/danaonel/design-system/issues)",
+        "prevChunkIds": []
+      }
+    }
+  }
+}
