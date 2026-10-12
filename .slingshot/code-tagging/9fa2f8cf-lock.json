@@ -1,0 +1,30 @@
+{
+  "tsup.config.ts": {
+    "filename": "tsup.config.ts",
+    "path": "tsup.config.ts",
+    "version": "1.2",
+    "contextFile": "9fa2f8cf-context.json",
+    "chunks": {
+      "52dc60": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791834841,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "chat",
+        "type": "copyCode",
+        "extraContext": {
+          "promptMessage": "9ce8d76c"
+        },
+        "hash": "484fc133",
+        "messageId": "system_a7343ac0-c674-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": "system_a7343ac0-c674-11f1-aa2c-e38d958aee0c-Codeblock-3",
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 12:54:01 PM\n- **source**: chat\n- **type**: copyCode\n"
+      }
+    },
+    "lines": {},
+    "_prevLineCount": 13
+  }
+}

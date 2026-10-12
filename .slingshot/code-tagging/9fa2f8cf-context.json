@@ -1,0 +1,15 @@
+{
+  "filename": "tsup.config.ts",
+  "path": "tsup.config.ts",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "9ce8d76c": {
+      "value": "I'm running \"npm run build\" and i get the following error `TypeError [Error]: Cannot read properties of undefined (reading 'useCaseSensitiveFileNames')\n    at node_modules/.pnpm/rollup-plugin-dts@6.1.1_rollup@4.53.2_typescript@5.7.3/node_modules/rollup-plugin-dts/dist/rollup-plugin-dts.cjs (/Users/danpopes/Documents/WORK/design-system-from-scratch/node_modules/tsup/dist/rollup.js:4857:37)\n    at __require2 (/Users/danpopes/Documents/WORK/design-system-from-scratch/node_modules/tsup/dist/chunk-TW"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}
