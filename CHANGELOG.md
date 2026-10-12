@@ -1,5 +1,11 @@
 # @vftn/design-system
 
+## 2.0.1
+
+### Patch Changes
+
+- [#10](https://github.com/danaonel/design-system/pull/10) [`63dc164`](https://github.com/danaonel/design-system/commit/63dc1641e52fc5ddc01b8a31a013bf54393006f7) Thanks [@danaonel](https://github.com/danaonel)! - Adding readme file which contains link to storybook published to github pages
+
 ## 2.0.0
 
 ### Major Changes
