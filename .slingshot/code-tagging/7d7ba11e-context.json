@@ -1,0 +1,15 @@
+{
+  "filename": "README.md",
+  "path": "README.md",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "61a15fca": {
+      "value": "I published the storybook to https://danaonel.github.io/design-system/\nAdd this information to README.md file"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}
