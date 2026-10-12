@@ -38,11 +38,11 @@
     "access": "public"
   },
   "scripts": {
-    "build": "tsup && tsc -p tsconfig.build.json && npm run build:css",
+    "build": "tsup && tsc -p tsconfig.build.json && pnpm run build:css",
     "build:css": "npx @tailwindcss/cli -i src/styles.css -o dist/styles.css --minify",
     "dev": "tsup --watch",
-    "lint:package": "publint && attw --pack . --profile esm-only",
-    "release": "npm run build && changeset publish",
+    "lint:package": "publint && pnpm attw --pack . --profile esm-only",
+    "release": "pnpm run build && changeset publish",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
@@ -69,7 +69,8 @@
     "typescript": "^7.0.2",
     "vitest": "latest"
   },
-    "engines": {
+  "engines": {
     "node": ">=20"
-  }
+  },
+  "packageManager": "pnpm@10.33.0"
 }
