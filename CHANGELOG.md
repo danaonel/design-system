@@ -1,5 +1,11 @@
 # @vftn/design-system
 
+## 2.1.0
+
+### Minor Changes
+
+- [#14](https://github.com/danaonel/design-system/pull/14) [`3bd7516`](https://github.com/danaonel/design-system/commit/3bd751604a651cc171efa21d94986efa7c62fd6d) Thanks [@danaonel](https://github.com/danaonel)! - Add Tailwind CSS styling and a new Calendar component.
+
 ## 2.0.1
 
 ### Patch Changes
