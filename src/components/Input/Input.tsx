@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { cn } from '../../lib/cn';
 
 export interface InputProps
   extends React.InputHTMLAttributes<HTMLInputElement> {
@@ -9,7 +10,7 @@ export const Input = React.forwardRef<HTMLInputElement, InputProps>(
   ({ variant = 'primary', className, ...props }, ref) => (
     <input
       ref={ref}
-      className={`ds-input ds-input--${variant} ${className ?? ''}`}
+      className={cn('ds-input', `ds-input--${variant}`, className)}
       {...props}
     />
   )

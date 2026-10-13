@@ -1,0 +1,18 @@
+{
+  "filename": "Calendar.stories.tsx",
+  "path": "src/components/Calendar/Calendar.stories.tsx",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "2250b9a2": {
+      "value": "I get this error when I try to run storybook `\n■  Vite (!) Failed to run dependency scan. Skipping dependency pre-bundling. Error:\n│  The following dependencies are imported but could not be resolved:\n\n│  @storybook/test (imported by ./src/components/Calendar/Calendar.stories.tsx)\n\n│  Are they installed?\n│  at\n│  file://./node_modules/.pnpm/vite@8.3.4_esbuild@0.27.7_yaml@2.9.1/node_modules/vite/dist/node/chunks/node.js:28519:33\n│  at async\n│  file://./node_modules/.pnpm/vite@8.3.4_esbuild@0.27.7"
+    },
+    "d369cef3": {
+      "value": "I still get this error in browser console `http://127.0.0.1:6006/iframe.html?id=components-calendar--default&viewMode=story&tags= 500 (Internal Server Error)`"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

@@ -1,0 +1,18 @@
+{
+  "filename": "preview.tsx",
+  "path": ".storybook/preview.tsx",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "ed2b393a": {
+      "value": "When I run `pnpm run storybook` storybook compiles, but I get this error in the browser `Failed to fetch dynamically imported module: http://127.0.0.1:6006/src/components/Calendar/Calendar.stories.tsx\nThe component failed to render properly, likely due to a configuration issue in Storybook. Here are some common causes and how you can address them:\n\nMissing Context/Providers: You can use decorators to supply specific contexts or providers, which are sometimes necessary for components to render co"
+    },
+    "03d6128c": {
+      "value": "/.storybook/preview.tsx cannot import '../src/styles.css'. The styles are supposed to be built via tailwind. Fix this."
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

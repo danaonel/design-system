@@ -1,0 +1,46 @@
+{
+  "filename": "index.ts",
+  "path": "src/index.ts",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "7423c0a8": {
+      "value": "Please generate Calendar/light page code from provided Figma Details"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {
+    "8963a463": {
+      "value": {
+        "figmaFileKey": "QbBWSSF5VZOy3YeHiyLCJz",
+        "selectedFigmaFileName": "Calendar",
+        "selectedComponents": [
+          "calendar",
+          "calendar/header",
+          "arrow",
+          "calendar/body",
+          "calendar/week-day",
+          "calendar/week-row",
+          "calendar/date",
+          "calendar/footer",
+          "Button",
+          "calendar/trigger"
+        ],
+        "selectedPage": {
+          "id": "10:355",
+          "name": "Calendar/light"
+        },
+        "selectedCanvas": {
+          "id": "0:1",
+          "name": "Page 1"
+        },
+        "uiFramework": "React",
+        "componentLibrary": "Material-UI",
+        "cssLibrary": "Tailwind CSS",
+        "sourceName": "figmaToCode"
+      }
+    }
+  },
+  "jira": {}
+}

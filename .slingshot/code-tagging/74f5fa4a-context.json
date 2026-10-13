@@ -1,0 +1,18 @@
+{
+  "filename": "Button.stories.tsx",
+  "path": "src/components/Button/Button.stories.tsx",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "d3b0a961": {
+      "value": "Storybook compiles, but whenever I click on a component, I get only the loading animation. The component does not show in the browser and the console shows this error `Failed to load resource: the server responded with a status of 500 (Internal Server Error)`"
+    },
+    "3e198460": {
+      "value": "Now I get this error `globals-runtime.js:4255  GET http://127.0.0.1:6006/iframe.html?id=components-button--docs&viewMode=docs&tags= 500 (Internal Server Error)`"
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

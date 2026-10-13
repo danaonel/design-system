@@ -1,0 +1,139 @@
+{
+  ".storybook/main.ts": {
+    "filename": "main.ts",
+    "path": ".storybook/main.ts",
+    "version": "1.2",
+    "contextFile": "37fef5cc-context.json",
+    "chunks": {
+      "48eb80": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791851456,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "03d6128c"
+        },
+        "hash": "2487ce93",
+        "messageId": "system_4c15ac90-c69d-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": null,
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 5:30:56 PM\n- **source**: agent\n- **type**: agentEditTool\n"
+      },
+      "299fb7": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791851472,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "03d6128c"
+        },
+        "hash": "73d188f4",
+        "messageId": "system_4c15ac90-c69d-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": null,
+        "isActive": true,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 5:31:12 PM\n- **source**: agent\n- **type**: agentEditTool\n"
+      }
+    },
+    "lines": {
+      "3": {
+        "chunkId": "299fb7",
+        "hash": "51a6495a",
+        "encoded": "const%20config:%20StorybookConfig%20=%20%7B",
+        "prevChunkIds": []
+      },
+      "4": {
+        "chunkId": "299fb7",
+        "hash": "d1d155a1",
+        "encoded": "%22stories%22:%20%5B",
+        "prevChunkIds": []
+      },
+      "5": {
+        "chunkId": "299fb7",
+        "hash": "b853db57",
+        "encoded": "%22../src/**/*.mdx%22,",
+        "prevChunkIds": []
+      },
+      "6": {
+        "chunkId": "299fb7",
+        "hash": "f5c7c24b",
+        "encoded": "%22../src/**/*.stories.@(js%7Cjsx%7Cmjs%7Cts%7Ctsx)%22",
+        "prevChunkIds": []
+      },
+      "7": {
+        "chunkId": "299fb7",
+        "hash": "c391b260",
+        "encoded": "%5D,",
+        "prevChunkIds": []
+      },
+      "8": {
+        "chunkId": "299fb7",
+        "hash": "09fd26f2",
+        "encoded": "%22addons%22:%20%5B",
+        "prevChunkIds": []
+      },
+      "9": {
+        "chunkId": "299fb7",
+        "hash": "dcf290fc",
+        "encoded": "%22@chromatic-com/storybook%22,",
+        "prevChunkIds": []
+      },
+      "10": {
+        "chunkId": "299fb7",
+        "hash": "c6684563",
+        "encoded": "%22@storybook/addon-vitest%22,",
+        "prevChunkIds": []
+      },
+      "11": {
+        "chunkId": "299fb7",
+        "hash": "9573786a",
+        "encoded": "%22@storybook/addon-a11y%22,",
+        "prevChunkIds": []
+      },
+      "12": {
+        "chunkId": "299fb7",
+        "hash": "487e477f",
+        "encoded": "%22@storybook/addon-docs%22,",
+        "prevChunkIds": []
+      },
+      "13": {
+        "chunkId": "299fb7",
+        "hash": "416e7487",
+        "encoded": "%22@storybook/addon-onboarding%22,",
+        "prevChunkIds": []
+      },
+      "14": {
+        "chunkId": "299fb7",
+        "hash": "ad6d599f",
+        "encoded": "%22@storybook/addon-designs%22",
+        "prevChunkIds": []
+      },
+      "15": {
+        "chunkId": "299fb7",
+        "hash": "af9eeae9",
+        "encoded": "%5D,",
+        "prevChunkIds": []
+      },
+      "21": {
+        "chunkId": "299fb7",
+        "hash": "3cf19c12",
+        "encoded": "%7D;",
+        "prevChunkIds": []
+      },
+      "22": {
+        "chunkId": "299fb7",
+        "hash": "ca25ed8a",
+        "encoded": "export%20default%20config;",
+        "prevChunkIds": []
+      }
+    },
+    "_prevLineCount": 23
+  }
+}

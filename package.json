@@ -39,7 +39,7 @@
   },
   "scripts": {
     "build": "tsup && tsc -p tsconfig.build.json && pnpm run build:css",
-    "build:css": "npx @tailwindcss/cli -i src/styles.css -o dist/styles.css --minify",
+    "build:css": "tailwindcss -i src/styles.css -o dist/styles.css --minify",
     "dev": "tsup --watch",
     "lint:package": "publint && pnpm attw --pack . --profile esm-only",
     "release": "pnpm run build && changeset publish",
@@ -56,7 +56,10 @@
     "@storybook/addon-docs": "^10.6.2",
     "@storybook/addon-onboarding": "^10.6.2",
     "@storybook/addon-vitest": "^10.6.2",
+    "@storybook/react": "^10.6.2",
     "@storybook/react-vite": "^10.6.2",
+    "@tailwindcss/cli": "^4.3.3",
+    "@tailwindcss/vite": "^4.3.3",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "@vitest/browser-playwright": "latest",
@@ -67,12 +70,18 @@
     "react-dom": "^19.3.0",
     "rollup-plugin-dts": "^6.5.1",
     "storybook": "^10.6.2",
+    "tailwindcss": "^4.3.3",
     "tsup": "^8.5.1",
     "typescript": "^7.0.2",
+    "vite": "^8.3.4",
     "vitest": "latest"
   },
   "engines": {
     "node": ">=20"
   },
-  "packageManager": "pnpm@10.33.0"
+  "packageManager": "pnpm@10.33.0",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.7.0"
+  }
 }

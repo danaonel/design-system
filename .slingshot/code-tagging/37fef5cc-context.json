@@ -1,0 +1,15 @@
+{
+  "filename": "main.ts",
+  "path": ".storybook/main.ts",
+  "version": "1.1",
+  "files": {},
+  "promptMessage": {
+    "03d6128c": {
+      "value": "/.storybook/preview.tsx cannot import '../src/styles.css'. The styles are supposed to be built via tailwind. Fix this."
+    }
+  },
+  "localPrompts": {},
+  "remotePrompts": {},
+  "figma": {},
+  "jira": {}
+}

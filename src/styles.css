@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import "tailwindcss";
+
+/* Don't generate classes for story-only markup */
+@source not "./**/*.stories.tsx";
+
+@theme {
+  --color-brand-500: #4f46e5;
+  --color-brand-600: #4338ca;
+  --radius-ds: 0.5rem;
+  --font-sans: 'Roboto', ui-sans-serif, system-ui, sans-serif;
+  --font-roboto: 'Roboto', 'sans-serif';
+
+  --color-calendar-blue: #0085ff;
+  --color-calendar-blue-light: #cae6ff;
+  --color-calendar-gray: #929292;
+  --color-calendar-border: #e4e4e4;
+  --shadow-calendar: 0px 8px 15px rgba(0, 0, 0, 0.25);
+}
+
+@layer components {
+  .ds-button {
+    @apply inline-flex items-center rounded-lg px-4 py-2 font-medium transition-colors;
+  }
+  .ds-button--primary {
+    @apply bg-indigo-600 text-white hover:bg-indigo-700;
+  }
+  .ds-button--secondary {
+    @apply bg-gray-100 text-gray-900 hover:bg-gray-200;
+  }
+  .ds-input {
+    @apply block w-full rounded-lg border border-gray-300 px-4 py-2
+         focus:border-indigo-500 focus:outline-hidden focus:ring-3 focus:ring-indigo-200/50;
+  }
+}
