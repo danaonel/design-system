@@ -1,0 +1,61 @@
+{
+  "src/components/Calendar/Calendar.stories.tsx": {
+    "filename": "Calendar.stories.tsx",
+    "path": "src/components/Calendar/Calendar.stories.tsx",
+    "version": "1.2",
+    "contextFile": "7a7da17f-context.json",
+    "chunks": {
+      "2e789e": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791851154,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "2250b9a2"
+        },
+        "hash": "4017e3e7",
+        "messageId": "system_8dc74280-c69c-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": null,
+        "isActive": false,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 5:25:54 PM\n- **source**: agent\n- **type**: agentEditTool\n"
+      },
+      "fea220": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791852156,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "d369cef3"
+        },
+        "hash": "ff15eea8",
+        "messageId": "system_ec95f8e0-c69e-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": null,
+        "isActive": true,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 5:42:36 PM\n- **source**: agent\n- **type**: agentEditTool\n"
+      }
+    },
+    "lines": {
+      "1": {
+        "chunkId": "fea220",
+        "hash": "9fdcc045",
+        "encoded": "import%20%7B%20fn%20%7D%20from%20'storybook/test';",
+        "prevChunkIds": []
+      },
+      "2": {
+        "chunkId": "fea220",
+        "hash": "02de4bc0",
+        "encoded": "import%20%7B%20Calendar%20%7D%20from%20'./Calendar';",
+        "prevChunkIds": []
+      }
+    },
+    "_prevLineCount": 90
+  }
+}

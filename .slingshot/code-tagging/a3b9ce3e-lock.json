@@ -1,0 +1,133 @@
+{
+  "src/components/Calendar/index.ts": {
+    "filename": "index.ts",
+    "path": "src/components/Calendar/index.ts",
+    "version": "1.2",
+    "contextFile": null,
+    "chunks": {
+      "4fcb2e": {
+        "user": "Daniela",
+        "model": "gpt-4.1",
+        "timestamp": 1791850081,
+        "platform": "VisualStudioCode",
+        "product": "AIPP",
+        "productVersion": "3.5.0",
+        "source": "agent",
+        "type": "agentEditTool",
+        "extraContext": {
+          "promptMessage": "7423c0a8",
+          "figma": "8963a463"
+        },
+        "hash": "d419d08b",
+        "messageId": "system_a07d53e0-c699-11f1-aa2c-e38d958aee0c",
+        "codeBlockId": null,
+        "isActive": true,
+        "hoverData": "\n### Slingshot Generated Code\n\n- **user**: Daniela\n- **model**: gpt-4.1\n- **timestamp**: 10/12/2026, 5:08:01 PM\n- **source**: agent\n- **type**: agentEditTool\n"
+      }
+    },
+    "lines": {
+      "0": {
+        "chunkId": "4fcb2e",
+        "hash": "e8321858",
+        "encoded": "export%20%7B%20Calendar%20%7D%20from%20'./Calendar';",
+        "prevChunkIds": []
+      },
+      "1": {
+        "chunkId": "4fcb2e",
+        "hash": "2dee8e8a",
+        "encoded": "export%20type%20%7B%20CalendarProps%20%7D%20from%20'./Calendar';",
+        "prevChunkIds": []
+      },
+      "3": {
+        "chunkId": "4fcb2e",
+        "hash": "65394e6c",
+        "encoded": "export%20%7B%20CalendarTrigger%20%7D%20from%20'./CalendarTrigger';",
+        "prevChunkIds": []
+      },
+      "4": {
+        "chunkId": "4fcb2e",
+        "hash": "3bba8a96",
+        "encoded": "export%20type%20%7B%20CalendarTriggerProps%20%7D%20from%20'./CalendarTrigger';",
+        "prevChunkIds": []
+      },
+      "6": {
+        "chunkId": "4fcb2e",
+        "hash": "d7c0e449",
+        "encoded": "export%20%7B%20CalendarHeader%20%7D%20from%20'./CalendarHeader';",
+        "prevChunkIds": []
+      },
+      "7": {
+        "chunkId": "4fcb2e",
+        "hash": "d476cc9a",
+        "encoded": "export%20type%20%7B%20CalendarHeaderProps%20%7D%20from%20'./CalendarHeader';",
+        "prevChunkIds": []
+      },
+      "9": {
+        "chunkId": "4fcb2e",
+        "hash": "763d15f1",
+        "encoded": "export%20%7B%20CalendarBody%20%7D%20from%20'./CalendarBody';",
+        "prevChunkIds": []
+      },
+      "10": {
+        "chunkId": "4fcb2e",
+        "hash": "831ef668",
+        "encoded": "export%20type%20%7B%20CalendarBodyProps%20%7D%20from%20'./CalendarBody';",
+        "prevChunkIds": []
+      },
+      "12": {
+        "chunkId": "4fcb2e",
+        "hash": "3e8307fd",
+        "encoded": "export%20%7B%20CalendarFooter%20%7D%20from%20'./CalendarFooter';",
+        "prevChunkIds": []
+      },
+      "13": {
+        "chunkId": "4fcb2e",
+        "hash": "91a8aa09",
+        "encoded": "export%20type%20%7B%20CalendarFooterProps%20%7D%20from%20'./CalendarFooter';",
+        "prevChunkIds": []
+      },
+      "15": {
+        "chunkId": "4fcb2e",
+        "hash": "685aed02",
+        "encoded": "export%20%7B%20CalendarWeekDay%20%7D%20from%20'./CalendarWeekDay';",
+        "prevChunkIds": []
+      },
+      "16": {
+        "chunkId": "4fcb2e",
+        "hash": "cb22fba1",
+        "encoded": "export%20type%20%7B%20CalendarWeekDayProps%20%7D%20from%20'./CalendarWeekDay';",
+        "prevChunkIds": []
+      },
+      "18": {
+        "chunkId": "4fcb2e",
+        "hash": "dd462028",
+        "encoded": "export%20%7B%20CalendarWeekRow%20%7D%20from%20'./CalendarWeekRow';",
+        "prevChunkIds": []
+      },
+      "19": {
+        "chunkId": "4fcb2e",
+        "hash": "2e607745",
+        "encoded": "export%20type%20%7B%20CalendarWeekRowProps%20%7D%20from%20'./CalendarWeekRow';",
+        "prevChunkIds": []
+      },
+      "21": {
+        "chunkId": "4fcb2e",
+        "hash": "c890ee17",
+        "encoded": "export%20%7B%20CalendarDate%20%7D%20from%20'./CalendarDate';",
+        "prevChunkIds": []
+      },
+      "22": {
+        "chunkId": "4fcb2e",
+        "hash": "15c5ccc7",
+        "encoded": "export%20type%20%7B%20CalendarDateProps%20%7D%20from%20'./CalendarDate';",
+        "prevChunkIds": []
+      },
+      "24": {
+        "chunkId": "4fcb2e",
+        "hash": "bddc25f1",
+        "encoded": "export%20%7B%20CalendarPage%20%7D%20from%20'./CalendarPage';",
+        "prevChunkIds": []
+      }
+    }
+  }
+}
